@@ -1,32 +1,32 @@
 {
-  "name": "HackerWeb",
-  "short_name": "HackerWeb",
+  "name": "PWA",
+  "short_name": "PWA",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#fff",
-  "description": "A simply readable Hacker News app.",
+  "description": "App PWA.",
   "icons": [{
-    "src": "images/touch/homescreen48.png",
+    "src": "imagem/pwa48.png",
     "sizes": "48x48",
     "type": "image/png"
   }, {
-    "src": "images/touch/homescreen72.png",
+    "src": "imagem/pwa72.png",
     "sizes": "72x72",
     "type": "image/png"
   }, {
-    "src": "images/touch/homescreen96.png",
+    "src": "imagem/pwa96.png",
     "sizes": "96x96",
     "type": "image/png"
   }, {
-    "src": "images/touch/homescreen144.png",
+    "src": "imagem/pwa144.png",
     "sizes": "144x144",
     "type": "image/png"
   }, {
-    "src": "images/touch/homescreen168.png",
+    "src": "imagem/pwa168.png",
     "sizes": "168x168",
     "type": "image/png"
   }, {
-    "src": "images/touch/homescreen192.png",
+    "src": "imagem/pwa192.png",
     "sizes": "192x192",
     "type": "image/png"
   }],
