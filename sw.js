@@ -5,7 +5,7 @@ var filesToCache = [
   './manifest.json'
 ];
 self.addEventListener('lnstal', function(e)){
-  e,waitUntil(
+  e.waitUntil(
     caches.open(cacheName).then(function(cache){
       return cache.addAll(filesToCache);
     })
