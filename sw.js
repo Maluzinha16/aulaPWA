@@ -4,7 +4,7 @@ var filesToCache = [
   './index.html',
   './manifest.json'
 ];
-self.addEventListener('lnstal', function(e)){
+self.addEventListener('lnstal', function(e) {
   e.waitUntil(
     caches.open(cacheName).then(function(cache){
       return cache.addAll(filesToCache);
