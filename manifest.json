@@ -6,27 +6,27 @@
   "background_color": "#fff",
   "description": "App PWA.",
   "icons": [{
-    "src": "imagem/pwa48.png",
+    "src": "./imagem/pwa48.png",
     "sizes": "48x48",
     "type": "image/png"
   }, {
-    "src": "imagem/pwa72.png",
+    "src": "./imagem/pwa72.png",
     "sizes": "72x72",
     "type": "image/png"
   }, {
-    "src": "imagem/pwa96.png",
+    "src": "./imagem/pwa96.png",
     "sizes": "96x96",
     "type": "image/png"
   }, {
-    "src": "imagem/pwa144.png",
+    "src": "./imagem/pwa144.png",
     "sizes": "144x144",
     "type": "image/png"
   }, {
-    "src": "imagem/pwa168.png",
+    "src": "./imagem/pwa168.png",
     "sizes": "168x168",
     "type": "image/png"
   }, {
-    "src": "imagem/pwa192.png",
+    "src": "./imagem/pwa192.png",
     "sizes": "192x192",
     "type": "image/png"
   }]
