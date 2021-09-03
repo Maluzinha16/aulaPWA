@@ -1,0 +1,45 @@
+h1{
+	color: #4A9EFF;
+	text-decoration: underline;
+	text-align: center;
+	font-family: 'Lobster', cursive;
+	font-style: italic;
+	font-size: 50px;
+}
+
+h2{
+	color: #47d147;
+	text-decoration: underline;
+	font-style: italic;
+	font-size: 30px;
+}
+h3{
+	color: #ff8c1a;
+	text-decoration: underline;
+	font-family: 'Dokdo', cursive;
+	font-size:30px;
+}
+body{
+	background-color: #ff33;
+	font-family: 'Noto Sans KR', sans-serif;
+	font-size: 20px;
+}
+.uma{
+	color: #0000e6;
+}
+
+.um{
+	color: #ff66b3;
+}
+
+.dois{
+	color: #ff4d4d
+}
+#borda{
+	border-color: #b3b3ff ;
+	border-style: solid; 
+	border-top-width: 10px;
+}
+.div{
+	background-color: #408000
+}
