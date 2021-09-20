@@ -1,0 +1,169 @@
+*{
+	margin:0px;
+	padding: 0px;
+	border: 0px;
+}
+
+#cabecalho{
+	background-image: linear-gradient(rgba(255,216,152,100), rgba(238,0,0,0)),url(./imagem/ferro.jpg);
+	background-attachment: fixed; 
+	background-repeat: no-repeat;
+	background-position: center-center;
+	background-size: cover;
+	height: 600px; 
+}
+
+#menu{
+	background-color:#FF0000;
+	width: auto;
+	height: 70px;
+	text-align: center;
+	font-size: 40px;
+	color: #22EB1D;
+	margin-top: 1px;
+	font-family: 'Fjalla One', sans-serif;
+}
+
+#menutotal{
+	display: flex;
+	height: 50px;
+	background-color: ;
+	justify-content: flex-end;
+	align-items: center;
+	position: 
+}
+
+#menutotal p{
+	padding-left: 15px;
+	padding-right: 15px;
+	color: red;
+	font-size: 22px;
+	font-weight: bold;
+}
+
+#menutotal a{
+	text-decoration: none;
+}
+
+#menutotal a:hover{
+	text-decoration: underline;
+	background-color: #FF986E;
+}
+
+#meio{
+	background-color:#FF0000;
+	width: auto;
+	height: 70px;
+	text-align: center;
+	font-size: 60px;
+	color: #22EB1D;
+	margin-top: 1px;
+	margin-bottom: 1px;
+	font-family: 'Fjalla One', sans-serif;
+}
+
+#pai1{
+	background-color: #FF934A;
+	width: auto;
+	height: 550px;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.homem{
+	margin-top: 68%;
+	font-size: 17px;
+}
+
+.filhos1{
+	background-image: linear-gradient(rgba(238,0,0,0),rgba(252,220,197,100)),url(./imagem/homem.jpg);
+	background-repeat: no-repeat;
+	width: 25%;
+	height: 450px;
+	margin: 10px;
+	background-size: cover;
+	background-position: center;
+	border-radius: 25px;
+}
+
+.homem a:hover{
+	text-decoration: underline;
+	color: #04FF00;
+}
+
+.texto{
+	text-align: center;
+	padding-left: 5px;
+	padding-right: 5px;
+	font-size: 18px;
+	font-family: 'Fira Sans Condensed', sans-serif;
+}
+
+.filhos3{
+	background-image: linear-gradient(rgba(238,0,0,0),rgba(252,220,197,99)),url(./imagem/homem2.jpg);
+	background-repeat: no-repeat;
+	width: 25%;
+	height: 450px;
+	margin: 10px;
+	background-size: cover;
+	border-radius: 25px;
+}
+.filhos4{
+	background-image: linear-gradient(rgba(238,0,0,0),rgba(252,220,197,99)),url(./imagem/homem3.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	font-size: cover;
+	width: 25%;
+	height: 450px;
+	margin: 10px;
+	border-radius: 25px;
+}
+
+#pai2{
+	background-color:  #FF934A;
+	width: auto;
+	height: 550px;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.filhos5{
+	background-image: linear-gradient(rgba(238,0,0,0),rgba(255,204,196,100)),url(./imagem/image.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	font-size: cover;
+	width: 20%;
+	height: 400px;
+	border-radius: 25px;
+}
+
+.filhos6{
+	background-image: linear-gradient(rgba(238,0,0,0),rgba(204,197,255,100)),url(./imagem/ultimato.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	font-size: cover;
+	width: 20%;
+	height: 400px;
+	border-radius: 25px;
+}
+
+.filhos7{
+	background-image: linear-gradient(rgba(238,0,0,0),rgba(255,156,140,100)),url(./imagem/aranha.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	font-size: cover;
+	width: 20%;
+	height: 400px;
+	border-radius: 25px;
+}
+
+#rodape{
+	background-image: linear-gradient(rgba(255,216,152,100), rgba(238,0,0,0)),url(./imagem/ferro.jpg);
+	background-attachment: fixed; 
+	background-repeat: no-repeat;
+	background-position: center-center;
+	background-size: cover;
+	height: 600px; 
+}

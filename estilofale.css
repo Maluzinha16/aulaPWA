@@ -1,0 +1,73 @@
+*{
+	margin:0px;
+	padding: 0px;
+	border: 0px;
+}
+
+#cabecalho{
+	background-image: linear-gradient(rgba(238,222,112,98), rgba(238,0,0,0)),url(./imagem/ferro.jpg);
+	background-repeat: no-repeat;
+	background-position: center-center;
+	background-size: cover;
+	height: 600px; 
+}
+
+#menu{
+	background-color:#FF7D49;
+	width: auto;
+	height: 70px;
+	text-align: center;
+	font-size: 40px;
+	color: #4D657A;
+}
+
+#pai1{
+	background-color: blue;
+	width: auto;
+	height: 550px;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.filhos1{
+	background-color: yellow;
+	width: 30%;
+	height: 450px;
+}
+
+#pai2{
+	background-color: red;
+	width: auto;
+	height: 550px;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.filhos2{
+	background-color: green;
+	width: 20%;
+	height: 400px;
+}
+
+#pai3{
+	background-color: yellow;
+	width: auto;
+	height: 550px;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.filhos3{
+	background-color: blue;
+	width: 20%;
+	height: 400px;
+}
+
+#rodape{
+	background-color: pink;
+	width: auto;
+	height: 100px;
+}

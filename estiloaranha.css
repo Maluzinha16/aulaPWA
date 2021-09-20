@@ -1,0 +1,212 @@
+*{
+	margin:0px;
+	padding: 0px;
+	border: 0px;
+}
+
+#cabecalho{
+	background-image: linear-gradient(rgba(255,216,152,100), rgba(238,0,0,0)),url(./imagem/aranhas.jpg);
+	background-attachment: fixed; 
+	background-repeat: no-repeat;
+	background-position: center-center;
+	background-size: cover;
+	height: 600px; 
+}
+
+#menu{
+	background-color:#FF934A;
+	width: auto;
+	height: 75px;
+	text-align: center;
+	font-size: 25px;
+	color: #0265ec;
+	margin-top: 1px;
+	font-family: 'Fjalla One', sans-serif;
+}
+
+#menutotal{
+	display: flex;
+	height: 50px;
+	background-color: ;
+	justify-content: flex-end;
+	align-items: center;
+}
+
+#menutotal p{
+	padding-left: 15px;
+	padding-right: 15px;
+	color: red;
+	font-size: 22px;
+	font-weight: bold;
+}
+
+#menutotal a{
+	text-decoration: none;
+}
+
+#menutotal a:hover{
+	text-decoration: underline;
+	background-color: #FF986E;
+}
+
+#aranha{
+	background-color:#FF4535;
+	width: auto;
+	height: 110px;
+	text-decoration: underline;
+	font-family: 'Lexend Peta', sans-serif;
+	font-size: 60px;
+	color: #FFFF00;
+	text-align: center;
+}
+
+#fil{
+	background-color:#f9695d;
+	width: auto;
+	height: 90px;
+	text-align: center;
+	font-size: 65px;
+	color:  #22EB1D;
+	margin-top: 1px;
+	font-family: 'Fjalla One', sans-serif;
+}
+
+.texto{
+	text-align: center;
+	padding-left: 5px;
+	padding-right: 5px;
+	font-size: 20px;
+	font-family: 'Fira Sans Condensed', sans-serif;
+}
+
+#meio{
+	background-color:#FF4535;
+	width: auto;
+	height: 70px;
+	text-align: center;
+	font-size: 40px;
+	color: #0265ec;
+	margin-top: 1px;
+	margin-bottom: 1px;
+	font-family: 'Fjalla One', sans-serif;
+}
+
+#pai1{
+	background-color: #FF934A;
+	width: auto;
+	height: 550px;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.homem{
+	margin-top: 62%;
+	font-size: 17px;
+	margin-left: 5px;
+}
+
+.homem a:hover{
+	text-decoration: underline;
+	color: #04FF00;
+}
+
+.filhos1{
+	background-image: linear-gradient(rgba(238,0,0,0),rgba(252,220,197,100)),url(./imagem/aranha1.jpg);
+	background-repeat: no-repeat;
+	width: 25%;
+	height: 450px;
+	margin: 10px;
+	background-size: cover;
+	background-position: center;
+	border-radius: 25px;
+}
+.filhos3{
+	background-image: linear-gradient(rgba(238,0,0,0),rgba(252,220,197,99)),url(./imagem/aranha2.jpg);
+	background-repeat: no-repeat;
+	width: 25%;
+	height: 450px;
+	margin: 10px;
+	background-size: cover;
+	border-radius: 25px;
+}
+.filhos4{
+	background-image: linear-gradient(rgba(238,0,0,0),rgba(252,220,197,99)),url(./imagem/aranha3.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	font-size: cover;
+	width: 25%;
+	height: 450px;
+	margin: 10px;
+	border-radius: 25px;
+}
+
+#pai2{
+	background-color:  #FF934A;
+	width: auto;
+	height: 550px;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.filhos5{
+	background-image: linear-gradient(rgba(238,0,0,0),rgba(255,204,196,100)),url(./imagem/oaranha1.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	font-size: cover;
+	width: 20%;
+	height: 400px;
+	border-radius: 25px;
+}
+
+.filhos6{
+	background-image: linear-gradient(rgba(238,0,0,0),rgba(204,197,255,100)),url(./imagem/oaranha2.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	font-size: cover;
+	width: 20%;
+	height: 400px;
+	border-radius: 25px;
+}
+
+
+
+#rodape{
+	background-image: linear-gradient(rgba(255,216,152,100), rgba(238,0,0,0)),url(./imagem/aranhas.jpg);
+	background-attachment: fixed; 
+	background-repeat: no-repeat;
+	background-position: center-center;
+	background-size: cover;
+	height: 600px; 
+}
+
+#pai3{
+	background-color:  #FF934A;
+	width: auto;
+	height: 550px;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.filhos7{
+	background-image: linear-gradient(rgba(238,0,0,0),rgba(255,156,140,100)),url(./imagem/lar.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	font-size: cover;
+	width: 20%;
+	height: 450px;
+	border-radius: 25px;
+}
+
+.filhos8{
+	background-image: linear-gradient(rgba(238,0,0,0),rgba(255,156,140,100)),url(./imagem/casa.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	font-size: cover;
+	width: 20%;
+	height: 450px;
+	border-radius: 20px;
+
+}
