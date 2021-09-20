@@ -191,7 +191,7 @@
 }
 
 .filhos7{
-	background-image: linear-gradient(rgba(238,0,0,0),rgba(255,156,140,100)),url(lar.png);
+	background-image: linear-gradient(rgba(238,0,0,0),rgba(255,156,140,100)),url(./imagem/lar.png);
 	background-repeat: no-repeat;
 	background-position: center;
 	font-size: cover;
